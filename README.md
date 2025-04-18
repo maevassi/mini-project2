@@ -13,3 +13,7 @@ The tutorial also guides its user to answer the following questions:
 - how has the IMDb ratings changed over the seasons;
 - which character has the most spoken lines across all episodes;
 - whether there is a relationship between word count and IMDb rating?
+
+Links:\
+[Read the blog post](https://maevassi.github.io/mini-project2/maeva_assi_wrangling_the_simpsons.html) \
+[Download the .Rmd file](https://maevassi.github.io/mini-project2/maeva_assi_wrangling_the_simpsons.Rmd)
