@@ -1,6 +1,6 @@
 # Mini-project 2: Wrangling the Simpsons
 
-This project is an interactive data wrangling tutorial on how to use the following functions from the tidyr, dyplr and ggplot2 packages:
+This project is an interactive data wrangling tutorial on how to use the following functions from the tidyr, dplyr and ggplot2 packages:
 - filter() and arrange() to manipulate rows;
 - select(), mutate() and summarize() to manipulate and create columns;
 - join() to join tables together;
